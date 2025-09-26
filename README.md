@@ -1,2 +1,1 @@
-# Capteur_Frugal_P.O
-L'ensemble des sketchs pour le capteur de tri Plastic Odyssey
+# Plastic sorting system thanks to Goertzel FFT algorithm
